@@ -1,0 +1,28 @@
+name: 'markets&services'
+favicon: null
+layout_spectrum: 0.6125408669468015
+typography_spectrum: 0.9488538911100477
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#3C493F'
+    - '#7E8D85'
+    - '#B3BFB8'
+    - '#F0F7F4'
+    - '#A2E3C4'
+  brandStrength: 0.5532228257507086
+  lightness: 0.30216547194868326
+  saturation: 0.424186326097697
+  rhythmicContrast: 0.10852296673692763
+purpose: []
